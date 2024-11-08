@@ -76,3 +76,4 @@ olleH
 It`s my first editing  
 Hello from Novorossiysk!
 Hello from Ufa!
+I finally reached the last lesson in the "Introduction to Git" thread !
